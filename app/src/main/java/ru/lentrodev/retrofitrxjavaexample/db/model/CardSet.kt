@@ -10,6 +10,4 @@ import androidx.room.PrimaryKey
 class CardSet {
     @PrimaryKey
     var setId: Long = 0
-
-
 }
